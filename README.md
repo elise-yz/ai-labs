@@ -1,5 +1,5 @@
 # ai-labs
-Selected AI labs from my artificial intelligence coursework at TJHSST (python).
+Selected AI labs from my artificial intelligence coursework at TJHSST.
 
 Tictactoe: A bot that plays tictactoe against you. Optimized to always play perfectly.
 
